@@ -1,0 +1,19 @@
+{
+  "name": "zebicss",
+  "version": "0.1.0",
+  "description": "zebicss classless CSS stylesheet",
+  "main": "zebi.css",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogermartitorne/zebicss.git"
+  },
+  "keywords": [
+    "css",
+    "html",
+    "zebicss"
+  ],
+  "author": "rodžer",
+  "license": "MIT",
+  "homepage": "https://zebicss.xyz"
+}
