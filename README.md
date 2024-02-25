@@ -38,3 +38,4 @@ Feel free to provide feedback or report problems. I am open to new ideas and way
 ## Inspiration
 [Bolt.css](https://github.com/tbolt/boltcss)
 [shadcn/ui](https://ui.shadcn.com/)
+[Simple.css](https://simplecss.org/)
